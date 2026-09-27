@@ -1,0 +1,7 @@
+id=com.bittybig.large-stats
+name=Large FPS + Memory Monitor
+description=Automatically overlays a large FPS and memory monitor over Stencyl's built-in stats display.
+author=Leon from bittyBIG
+website=https://docs.bittybigstudio.com
+version=1.0.1
+compatibility=all
